@@ -1,0 +1,11 @@
+{
+
+  "name": "Shardus Nodejs Linter",
+  "description": "A linter for Node.js projects",
+  "categories": [
+    "Node.js"
+  ],
+  "filePatterns": [
+    "package.json"
+  ]
+}
