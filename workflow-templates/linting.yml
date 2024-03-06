@@ -1,4 +1,4 @@
-name: Shardus Nodejs Linte
+name: Shardus Nodejs Linter
 
 on: push
 
